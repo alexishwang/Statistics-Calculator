@@ -1,13 +1,13 @@
 # Statistics Calculators
 
 ## Descriptive Statistics 
-1.  Continuous Distribution Generator
+### 1.  Continuous Distribution Generator
 #### This tool will create a histogram representing the frequency distribution of interest.
 The types of Continuous Distributions : Uniform, Normal, Exponential, Gamma, Beta, Log Normal, Chi-squared Distributions
 
 https://alexishwang.shinyapps.io/ContinuousDistribution/
 
-2. Discrete Distribution Generator
+### 2. Discrete Distribution Generator
 #### This tool will create a histogram representing the frequency distribution of interest.
 The types of Discrete Distributions : Bernoulli, Poisson, Binomial, Geometric Distributions
 
