@@ -1,4 +1,4 @@
-# Statistics Calculator
+# Statistics Calculators
 
 ## Continuous Distribution Generator
 This tool will create a histogram representing the frequency distribution of interest.
